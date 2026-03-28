@@ -49,10 +49,11 @@ Here are some ideas to get you started:
         </p>
     </p>
     <p>
-        Operative Systems
+        OS / Platforms
         <p>
             <img align="center" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png"/>
+            <img align="center" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
         </p>
     </p>
 </p>

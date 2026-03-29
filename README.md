@@ -58,6 +58,23 @@ Here are some ideas to get you started:
     </p>
 </p>
 
+## 🚀 My Projects
+
+<table>
+  <tr>
+    <td align="center" width="300px">
+      <h3>QR Generator Extension</h3>
+      <p>Browser extension that generates a QR code for the active tab URL and from customized link</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
+      </p>
+      <a href="https://github.com/vasilealexandru02/qr-generator-extension">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📫 How to reach me 
 - [Linkedin](https://www.linkedin.com/in/vasile-alexandru-ianchis)

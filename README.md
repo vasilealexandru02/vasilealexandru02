@@ -73,6 +73,18 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
+    <td align="center" width="300px">
+      <h3>Pomodoro Coffee ☕</h3>
+      <p>Retro pixel-art Pomodoro timer with coffee cup animations, lofi radio, and daily focus log. No dependencies — pure HTML, CSS and JavaScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://pomodoro-coffee.netlify.app/">
+        <img src="https://img.shields.io/badge/Start_being_productive!-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
   </tr>
 </table>
 
